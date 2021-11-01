@@ -1,0 +1,585 @@
+@media (max-width: 1200px) {
+    .help {
+        min-height: 870px;
+    }
+    .customer {
+        min-height: 620px;
+    }
+    .container {
+        width: 960px;
+    .nav_wrapper {
+        justify-content: space-around;
+    }
+    .links {
+        padding: 31px 0 0 0;
+    }
+    .nav_btn {
+        width: 140px;
+        height: 45px;
+    }
+    .nav_links_item {
+        padding: 31px 16px 0 0;
+    }
+    .promo_title {
+        font-size: 49px;
+        top: 185px;
+        left: 360px;
+    }
+    .promo_subtitle {
+        font-size: 14px;
+        left: 360px;
+        margin: 25px 0 10px 0;
+    }
+    .promo_btn {
+        left: 360px;
+    }
+    .about_title {
+        padding-top: 70px;
+    }
+    .about_container {
+        width: 330px;
+    }
+    .help_title {
+        font-size: 55px;
+        padding-top: 40px;
+    }
+    .help_box {
+        width: 300px;
+        height: 300px;
+        margin: 20px 20px 0 0;
+    }
+    .help_subtitle {
+        font-size: 20px;
+        margin: 10px 10px 0 0;
+    }
+    .help_text {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .project_title {
+        margin-top: 50px;
+    }
+    .project_link_wrapper {
+        margin: 141px 30px 0 0;
+    }
+    .project_img {
+        width: 455px;
+        height: 295px;
+    }
+    .founder_title {
+        padding: 20px 0 50px 0;
+    }
+    .founder_wrapper {
+        right: -24px;
+    }
+    .customer_title {
+        padding-top: 100px;
+    }
+    .customer_box_right {
+        padding: 0px 44px 56px 26px;
+        margin-top: 40px;
+    }
+    .customer_data_box {
+        margin-top: 25px;
+    }
+    }
+}
+@media (max-width: 991px) {
+    .help {
+        min-height: 710px;
+    }
+    .promo {
+        padding-top: 10px;
+    }
+    .project {
+        min-height: 1600px;
+    }
+    .customer {
+        min-height: 550px;
+    }
+    .container {
+        width: 720px;
+    .nav_logo {
+        font-size: 25px;
+        margin: 22px 15px 0 0;
+    }
+    .nav_btn {
+        width: 110px;
+        height: 35px;
+        margin-top: 22px;
+        font-size: 15px;
+    }
+    .nav_links_item {
+        padding: 20px 16px 0 0;
+    }
+    .promo_title {
+        font-size: 35px;
+        top: 210px;
+        left: 180px;
+    }
+    .promo_subtitle {
+        left: 180px;
+        font-size: 14px;
+        top: 340px;
+        letter-spacing: 0.05em;
+    }
+    .promo_btn {
+        left: 180px;
+        top: 460px;
+    }
+    .about_title {
+        padding-top: 80px;
+        font-size: 45px;
+    }
+    .about_container {
+        width: 220px;
+    }
+    .about_subtitle {
+        font-size: 23px;
+    }
+    .about_text {
+        font-size: 16px;
+    }
+    .help_box{
+        height: 220px;
+        width: 220px;
+        padding: 10px 10px 0 20px;
+        margin: 10px 10px 0 0;
+    }
+    .help_title {
+        font-size: 45px;
+        padding-top: 30px;
+    }
+    .help_subtitle {
+        margin: 10px 0 5px 0;
+        font-size: 16px;
+    }
+    .help_text {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .project_title {
+        font-size: 40px;
+        margin: 0;
+    }
+    .project_link_wrapper {
+        margin: 68px 52px 0 0;
+    }
+    .project_img_wrapper {
+        flex-direction: column;
+        margin: 0 auto;
+        margin-top: 20px;
+        max-width: 620px;
+        height: 340px;
+    }
+    .project_img {
+        width: 620px;
+        height: 340px;
+    }
+    .fonder_box {
+        flex-direction: column;
+    }
+    .founder_wrapper {
+        right: 0;
+    }
+    .founder_title {
+        margin: 0;
+        padding: 80px 0 50px 0;
+    }
+    .founder_ma {
+        margin-top: 25px;
+    }
+    .founder_box_text {
+        margin: 14px 10px 0 10px;
+        width: 320px;
+    }
+    .founder_box_right {
+        margin-top: -15px; 
+    }
+    .founder_box_left {
+        margin: 50px 50px 0 0;
+        bottom: 60px;
+    }
+    .founder_name {
+        font-size: 25px;
+    }
+    .founder_prof {
+        font-size: 17px;
+    }
+    .customer_title {
+        padding-top: 40px;
+        font-size: 40px ;
+        line-height: 55px;
+    }
+    .customer_subtitle {
+        font-size: 15px;
+        width: 370px;
+    }
+    .customer_box_right {
+        margin-top: 70px;
+        width: 100%;
+        height: 390px;
+        padding: 0 15px 33px 15px;
+    }
+    .customer_quotes {
+        font-size: 50px;
+    }
+    .customer_box_left {
+        width: 300px;
+    }
+    .customer_data_box {
+        margin: 0;
+    }
+    .customer_text {
+        font-size: 14px;
+        margin-top: 15px;
+        line-height: 22px;
+    }
+    .customer_ellpsis {
+        margin-top: 5px;
+    }
+    .grow_title {
+        font-size: 40px;
+    }
+    .grow_btn {
+        margin-top: 20px;
+    }
+    .footer_form {
+        width: 204px;
+        padding: 0 20px 0 20px;
+    }
+    .footer_box {
+        width: 179px;
+        margin-right: 25px;
+    }
+    .footer_teleg {
+        bottom: 7px;
+        right: -20px;
+    }
+    }
+}
+@media (max-width: 767px) {
+    .promo {
+        padding-top: 77px;
+    }
+    .about {
+        min-height: 670px;
+    }
+    .project {
+        min-height: 1550px;
+    }
+    .help {
+        min-height: 1010px;
+    }
+    .customer {
+        min-height: 730px;
+    }
+
+    .hamburger {
+        display: block;
+        position: absolute;
+        right: 40px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 25px;
+        height: 12px;
+        span {
+            display: block;
+            height: 2px;
+            width: 100%;
+            background-color: #FFFFFF;
+            margin-bottom: 2px;
+        }
+    }
+    .hamburger_active {
+        span {
+        margin-bottom: -2px;
+        transition: 0.5s all;
+        &:nth-child(1) {
+            transform:translateY(3px) rotate(-45deg);
+        }
+        &:nth-child(2) {
+            display: none;
+        }
+        &:nth-child(3) {
+            transform:translateY(3px) rotate(45deg);
+      }
+    }
+  }
+    .container {
+        width: 540px;
+    .links {
+        position: fixed;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        top: 0;
+        left: -100%;
+        width: 75%;
+        height: 100vh;
+        padding: 20px 15px;
+        background-color: rgba(0, 0, 0, 0.8);
+        transition: 0.6s all;
+        }
+        .links_active {
+            left: 0;
+        }
+        .nav_links {
+            padding-right: 0;
+            margin: 10px 0;
+            border: none;
+        }
+        .nav_btn.one_btn {
+            display: none;
+        }
+        .nav_box_btn {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+        .nav_wrapper {
+            justify-content: start;
+            width: 200px;
+            display: inline-block;
+        }
+        .promo_wrapper {
+            min-height: 550px;
+        }
+        .promo_title {
+            top: 160px;
+            left: 70px;
+        }
+        .project_link_wrapper {
+            margin-right: 23px;
+        }
+        .project_img_box {
+            margin: 30px 0 0 0;
+        }
+  
+        .promo_subtitle {
+            left: 70px;
+            font-size: 12px;
+            top: 287px;
+        }
+        .promo_btn {
+            left: 217px;
+        }
+        .about_title {
+            padding-top: 40px;
+            font-size: 41px;
+        }
+        .about_wrapper {
+            flex-direction: column;
+            justify-content: start;
+        }
+        .about_subtitle {
+            margin-top: 20px;
+            font-size: 27px;
+        }
+        .about_container {
+            right: 0;
+            width: 414px;
+        }
+        .about_text {
+            font-size: 18px;
+        }
+        .help_title {
+            font-size: 40px;
+        }
+        .help_box {
+            height: 250px;
+            width: 250px;
+            margin: 20px 20px 0 0;
+        }
+        .help_subtitle {
+            margin-top: 20px;
+        }
+        .wrapper_read_more {
+            margin-top: 25px;
+        }
+        .project_img {
+            width: 521px;
+            height: 300px;
+        }
+        .founder_title {
+            padding: 50px 0 40px 0;
+            font-style: 45px;
+        }
+        .founder_wrapper {
+            flex-wrap: wrap;
+        }
+        .founder_name {
+            font-size: 20px;
+        }
+        .founder_prof {
+            width: 240px;
+        }
+        .founder_img {
+            width: 250px;
+        }
+        .founder_box_left {
+            margin: 50px 0 0 0;
+        }
+        .founder_box_text {
+            width: 250px;
+        }
+        .customer_wrapper {
+            flex-wrap: wrap;
+        }
+        .customer_title {
+            font-size: 35px;
+            text-align: center;
+            width: 540px;
+        }
+        .customer_subtitle {
+            text-align: center;
+            width: 540px;
+        }
+        .customer_box_right {
+            width: 370px;
+            margin-left: 85px;
+        }
+        .grow_title {
+            font-size: 35px;
+        }
+        .grow_subtitle {
+            font-size: 14px;
+        }
+        .footer_teleg {
+            display: none;
+        }
+        
+    }
+}
+@media (max-width: 575px) {
+    .promo {
+        min-height: 650px;
+    }
+    .help {
+        min-height: 1840px;
+    }
+    .project {
+        min-height: 1230px;
+    }
+    .container {
+        width: 100%;
+        .nav_logo {
+            margin-left: 25px;
+        }
+        .nav_links {
+            width: 100%;
+            text-align: center;
+        }
+        .nav_links_item {
+            display: block;
+        }
+        .promo_wrapper {
+            margin: 0 15px 0;
+        }
+        .promo_title {
+            font-size: 24px;
+            left: 26px;
+        }
+        .promo_subtitle {
+            left: 29px;
+            font-size: 13px;
+        }
+        .nav_btn {
+            left: 114px;
+        }
+        .about_title {
+            font-size: 25px;
+            width: 100%;
+            padding-left: 25px;
+        }
+        .about_wrapper {
+            margin-left: 15px;
+        }
+        .about_box {
+            width: 100%;
+        }
+        .about_subtitle {
+            font-size: 20px;
+        }
+        .about_text {
+            width: 100%;  
+            font-size: 15px;    
+        }
+        .help_wrapper {
+            justify-content: center;
+        }
+        .help_title {
+            font-size: 25px;
+        }
+        .help_box {
+            width: 100%;
+            height: 250px;
+            margin-left: 20px;
+        }
+        .project_title {
+            font-size: 30px;
+            margin-left: 15px;
+            padding-top: 30px;
+        }
+        .project_link_wrapper {
+            display: flex;
+            justify-content: end;
+            width: 100%;
+        }
+        .project_img_box {
+            display: flex;
+            justify-content: center;
+        }
+        .project_img {
+            width: 100%;
+            height: 230px;
+        }
+        .founder_title {
+            font-size: 25px;
+            padding-bottom: 0px;
+        }
+        .founder_wrapper {
+            justify-content: center;
+        }
+        .founder_box_left {
+            margin-top: 130px;
+        }
+        .founder_box_text {
+            width: 100%;
+        }
+        .customer_title {
+            font-size: 25px;
+            text-align: center;
+            width: 100%;
+        }
+        .customer_subtitle {
+            text-align: center;
+            width: 100%;
+        }
+        .customer_box_left {
+            width: 100%;
+        }
+        .customer_box_right {
+            width: 100%;
+            margin-left: 20px;
+        }
+        .grow_title {
+            line-height: 40px;
+            font-size: 25px;
+        }
+        .grow_subtitle {
+            font-size: 12px;
+        }
+        .footer_wrapper {
+            justify-content: center;
+        }
+        .footer_box {
+            width: 100%;
+        }
+        .footer_teleg {
+            display: none;
+        }
+
+    }
+}

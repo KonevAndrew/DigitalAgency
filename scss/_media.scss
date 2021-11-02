@@ -214,7 +214,6 @@
     }
     .customer_subtitle {
         font-size: 15px;
-        width: 370px;
     }
     .customer_box_right {
         margin-top: 70px;
@@ -411,6 +410,7 @@
         }
         .founder_name {
             font-size: 20px;
+            padding-right: 10px;
         }
         .founder_prof {
             width: 240px;
@@ -574,8 +574,14 @@
         .footer_wrapper {
             justify-content: center;
         }
+        .founder_name {
+            padding-right: 20px;
+        }
         .footer_box {
             width: 100%;
+        }
+        .founder_text_left {
+            margin: 14px 10px 0 0;
         }
         .footer_teleg {
             display: none;
